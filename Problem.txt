@@ -1,0 +1,15 @@
+1. As a consumer
+I should be able to add items basket
+So that I can purchase them
+
+2. As a consumer
+I should be able to add multiple items
+So that I can have many number of same item
+
+3. As a consumer
+I should be able to see final price of each item including tax
+So that I can see total price of my purchase
+
+4. As a consumer
+I should be able to get discount on some products
+So that I can save some money
