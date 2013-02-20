@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="C:/EqualExpert/Idea-workspace/lib/mockito-all-1.9.5.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-core.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-aop.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-asm.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-aspects.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-beans.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-context-support.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-context.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-expression.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-instrument-tomcat.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-instrument.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-jdbc.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-jms.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-orm.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-oxm.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-test.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-tx.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/commons-logging.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/aopalliance.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-webmvc.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-web.jar" />
+  </library>
+  <library name="spring-3.1.0">
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-core.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-aop.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-asm.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-aspects.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-beans.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-context-support.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-context.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-expression.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-instrument-tomcat.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-instrument.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-jdbc.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-jms.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-orm.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-oxm.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-test.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-tx.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/commons-logging.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/aopalliance.jar" />
+  </library>
+  <library name="spring-mvc-3.1.2.RELEASE">
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-webmvc.jar" />
+    <archive path="C:/EqualExpert/Idea-workspace/lib/spring-web.jar" />
+  </library>
+</eclipse-userlibraries>
+
